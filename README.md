@@ -30,7 +30,7 @@ Jiho Choi
 | CS240  | Programming In C                                       | `C/C++`                                             |
 | CS250  | Computer Architecture                                  | `Computer Architecture` `Computer Organization`     |
 | CS251  | Data Structures and Algorithms                         | `Data Structure`                                    |
-| CS252  | Systems Programming                                    | `Intro to Systems` `OS/Compiler/Network`            |
+| CS252  | Systems Programming                                    | `Intro to Systems` `OS/Compiler/Network` `Lisp`     |
 |        |                                                        |                                                     |
 | CS307  | Software Engineering I                                 | `Design Pattern` `Workflow` `Agile` `Documentation` |
 | CS314  | Numerical Methods                                      | `Numerical Analysis`                                |
