@@ -4,6 +4,8 @@
 ### Overview
 - Instructor(s): Prof. Tiark Rompf, Dr. Gregory Essertel
 - Course Web: [`URL`](https://tiarkrompf.github.io/cs352/)
+- Textbook(s):
+    - [Modern Compiler Implementation](https://www.cs.princeton.edu/~appel/modern/), by Andrew W. Appel
 - Description:
 
 
