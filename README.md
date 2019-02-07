@@ -1,26 +1,38 @@
 # 📚 Computer Science Academic Notes
 
+
+
+
+- ***To Be Updated***
+    - Assignments (Project, Homework)
+    - Lecture notes
+    - Policy & License
+
+
 ---
+
+### Bio
 
 Jiho Choi
 
 - B.S. in Computer Science, Purdue University, West Lafayette, IN, USA, 2013 - 2017
-
 - Concentrations
   - Systems
   - Software Engineering
   - Computational Science & Engineering
-
 - Individual Research
   - Distributed Systems, Cloud Computing
-
 - Teaching Assistant
   - Computer Architecture
 
 
+
+---
+
+### Courses
+
 **Computer Science**
 
-----------
 | Course | Title                                                  | Keywords                                            |
 | ------ | ------------------------------------------------------ | --------------------------------------------------- |
 | CS180  | Problem Solving and Object-Oriented Programing         | `JAVA` `OOP`                                        |
@@ -41,7 +53,7 @@ Jiho Choi
 | CS390  | Competitive Programing I                               | `ICPC` `HackerRank`                                 |
 |        |                                                        |                                                     |
 | CS408  | Software Testing                                       | `Testing` `QA` `Continuous Integration`             |
-| CS422  | Computer Networks                                      | `Network` `OSI`                                     |
+| CS422  | Computer Networks                                      | `Network` `OSI` `Torrent`                           |
 | CS426  | Computer Security                                      | `Software Security` `Network Security`              |
 | CS448  | Introduction to Relational Database Systems            | `Database` `Apache Hadoop`                          |
 
@@ -49,10 +61,14 @@ Jiho Choi
 
 **Mathematics / Statistics**
 
-----------
 | Course  | Title                           |
 | ------- | ------------------------------- |
 | MA261   | Multivariate Calculus           |
 | MA265   | Linear Algebra                  |
 | MA266   | Ordinary Differential Equations |
 | STAT350 | Introduction to Statistics      |
+
+
+### .
+
+![](https://github.com/JihoChoi/academic/blob/master/assets/courses.png?raw=true)
