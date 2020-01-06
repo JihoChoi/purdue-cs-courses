@@ -43,7 +43,7 @@ Jiho Choi
 | `CS251`  | Data Structures and Algorithms                         | `Data Structure`                                    |
 | `CS252`  | Systems Programming                                    | `Intro to Systems` `OS/Compiler/Network` `Lisp`     |
 |          |                                                        |                                                     |
-| `CS307`  | Software Engineering I                                 | `Design Pattern` `Workflow` `Agile` `Documentation` |
+| `CS307`  | Software Engineering I                                 | `Design Pattern` `GoF` `Workflow` `Agile` `Documentation` |
 | `CS314`  | Numerical Methods                                      | `Numerical Analysis`                                |
 | `CS352`  | **Compilers: Principles And Practice**                 | `Compiler` `MiniScala`                              |
 | `CS354`  | **Operating Systems**                                  | `OS` `XINU`                                         |
